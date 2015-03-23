@@ -14,7 +14,6 @@ import org.hibernate.HibernateException;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 import org.painter.model.ElemEnum;
-import org.painter.resource.PaintException;
 import org.painter.resource.hibernate.HibernateFacade;
 import org.painter.resource.hibernate.JPAFacade;
 import org.painter.view.MainFrame;
