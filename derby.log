@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Mon Mar 23 22:20:40 CET 2015:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014c-4882-46c5-0000035cbe38 
-on database directory /home/danecek/derbyDB/paintDB with class loader sun.misc.Launcher$AppClassLoader@1d16e93 
-Loaded from file:/home/danecek/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+Thu Jun 02 10:56:26 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0155-1053-e984-00001009f1d0 
+on database directory Z:\home\danecek\derbyDB\paintDB with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Student/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_25-b17
-user.dir=/home/danecek/NetBeansProjects/HibernatePainter
-os.name=Linux
-os.arch=i386
-os.version=3.13.0-24-generic
+java.runtime.version=1.8.0_91-b15
+user.dir=Z:\danprojs\hibernate-painter
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
